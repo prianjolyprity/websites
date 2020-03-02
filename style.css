@@ -1,0 +1,89 @@
+body{
+    margin: 0px;
+    font-family: 'Ropa Sans';
+}
+h1{
+    font-size: 60px;
+    font-family: 'Federant';
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+.color{
+    color:rgb(255, 0, 128);
+}
+.half-width{
+    width:45%;
+    float: left;
+    margin-left:2%;
+    padding-left:2%;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height:500px;
+    padding-bottom: 50px;
+}
+.top-bannar{
+    background-image: url("img/top-banner.png");
+    background-repeat: no-repeat;
+}
+.link-button{
+    text-decoration: none;
+    background: linear-gradient(rgb(141, 230, 236), rgb(240, 128, 202));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+.half img{
+    width: 80%;
+
+}
+.half{
+    width: 44%;
+    float: left;
+    padding-left: 2%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(98, 231, 81), rgb(221, 219, 107));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+.dream-area{
+    background-image: url("img/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 50%;
+    width:35%;
+    float: left;
+    margin-left:8%;
+    padding-top:3%;
+}
+.experience-area{
+    background-image: url("img/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(lightsalmon, skyblue);
+    border-image-slice: 1;
+}
+#mobile-app{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(21, 196, 88), rgb(235, 231, 9));
+    border-image-slice: 1;   
+}
+footer{
+    text-align: center;
+}

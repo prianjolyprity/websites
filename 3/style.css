@@ -1,0 +1,22 @@
+.container{
+    background-color: lightslategray;
+}
+div{
+    height: 100px;
+    width: 100px;
+}
+#first{
+    background-color:green;
+}
+#second{
+    background-color: palevioletred;
+}
+#third{
+    background-color: lightseagreen;
+}
+h1{
+    color: lightseagreen;
+}
+.name{
+    color: gray;
+}

@@ -1,0 +1,19 @@
+h1{
+    color: goldenrod;
+}
+h1:hover{
+    color: indianred;
+    background-color: lightblue;
+}
+input:focus{
+    color: lightseagreen;
+}
+li:nth-child(2n+1){
+    background-color: lightslategray;
+}
+a:visited{
+    color: lime;
+}
+.color:visited{
+    color: lightseagreen;
+}
